@@ -1,0 +1,10 @@
+Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B
+Who is known as the "Father of Computers"?,Charles Babbage,Alan Turing,John von Neumann,Steve Jobs,A
+Which country is home to the Great Barrier Reef?,South Africa,Australia,Brazil,Canada,B
+What is the chemical symbol for water?,H₂,O₂,H₂O,CO₂,C
+Which programming language is primarily used for iOS app development?,Swift,Python,Java,Ruby,A
+Who was the first President of the United States?,Abraham Lincoln,Thomas Jefferson,George Washington,John Adams,C
+Which ancient civilization built the pyramids?,Romans,Greeks,Egyptians,Mayans,C
+If a train travels 60 km in 1 hour, how far will it travel in 3.5 hours?,150 km,180 km,210 km,240 km,C
+What comes next in the series: 2, 6, 12, 20, 30, ...?,36,42,48,40,B
+Which movie features the line "May the Force be with you"?,Star Wars,The Matrix,Avengers,Harry Potter,A
